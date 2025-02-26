@@ -14,5 +14,5 @@ The goal of this project is to develop a robust recommendation system for a real
 
 The primary objectives of this project include:
 
-- Developing an algorithm to predict item properties for "addtocart" events using data from "view" events.
-- Identifying and filtering out abnormal user behaviour to enhance the recommendation system's efficiency.
+- To develop an algorithm to predict item properties for "addtocart" events using data from "view" events.
+- Identify and filter out abnormal user behaviour to enhance the recommendation system's efficiency.
