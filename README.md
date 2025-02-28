@@ -1,6 +1,6 @@
 # An E-Commerce Recommendation System
 ---
-## Project In Progress ...
+## Project In Progress ... ✈️
 ---
 
 ## Overview of Recommendation Systems
