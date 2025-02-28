@@ -16,3 +16,13 @@ The primary objectives of this project include:
 
 - To develop an algorithm to predict item properties for "addtocart" events using data from "view" events.
 - Identify and filter out abnormal user behaviour to enhance the recommendation system's efficiency.
+
+## Analytical Questions
+- What proportion of user journeys follow the path from 'view' to 'addtocart' to 'transaction' events?
+- What proportion of views result in add-to-cart actions, and what proportion of add-to-carts result in transactions?
+- Which product categories have the highest conversion rates from views to transactions?
+- Are there specific times or days when certain categories or products are more likely to be added to the cart or purchased?
+- Which type of recommendation system can effectively work for this dataset?
+- What characteristics define abnormal user behavior in this dataset?
+- How accurately can the algorithm use view data to predict item properties for add-to-cart events?
+- What metrics (e.g., precision, recall, F1 score) can be used to evaluate the quality of the recommendation system?
