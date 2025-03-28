@@ -1,6 +1,5 @@
 # An E-Commerce Recommendation System
 ---
-## Project In Progress ... ✈️
 ---
 
 ## Overview of Recommendation Systems
@@ -10,7 +9,7 @@ In e-commerce, recommendation systems help users discover products they might no
 
 
 ## Problem Statement
-The goal of this project is to develop a robust recommendation system for a real-world e-commerce dataset, focusing on implicit feedback derived from user behaviour. The dataset includes three key files: behavioural data (events.csv), item properties (item_properties.csv), and a category hierarchy (category_tree.csv). The behavioural data captures over 2.7 million events, including views, add-to-carts, and transactions from approximately 1.4 million unique visitors over a 4.5-month period. The item properties file provides dynamic attributes of over 417,000 unique items, while the category tree outlines parent-child relationships between product categories.
+The goal of this project is to develop a robust recommendation system for a real-world e-commerce dataset, focusing on implicit feedback derived from user behaviour. The [dataset](https://azubiafrica-my.sharepoint.com/personal/glen_anum_azubiafrica_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fglen%5Fanum%5Fazubiafrica%5Forg%2FDocuments%2FTMP&ga=1) includes three key files: behavioural data (events.csv), item properties (item_properties.csv), and a category hierarchy (category_tree.csv). The behavioural data captures over 2.7 million events, including views, add-to-carts, and transactions from approximately 1.4 million unique visitors over a 4.5-month period. The item properties file provides dynamic attributes of over 417,000 unique items, while the category tree outlines parent-child relationships between product categories.
 
 The primary objectives of this project include:
 
@@ -21,7 +20,6 @@ The primary objectives of this project include:
 - What proportion of user journeys follow the path from 'view' to 'addtocart' to 'transaction' events?
 - What proportion of views result in add-to-cart actions, and what proportion of add-to-carts result in transactions?
 - Which product categories have the highest conversion rates from views to transactions?
-- Are there specific times or days when certain categories or products are more likely to be added to the cart or purchased?
 - Which type of recommendation system can effectively work for this dataset?
 - What characteristics define abnormal user behavior in this dataset?
 - How accurately can the algorithm use view data to predict item properties for add-to-cart events?
